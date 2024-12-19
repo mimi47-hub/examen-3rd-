@@ -1,0 +1,4 @@
+1|1|CatégorieA|Description de réservation 1|0123456789
+2|1|CatégorieB|Description de réservation 2|0987654321
+
+

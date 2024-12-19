@@ -1,0 +1,70 @@
+agent ID : 1 Parking ID : 1
+Nom du client : 1
+Nom du parking : hgg
+Emplacement du parking : dfgd
+Limite de réservation restante : 2
+Tarifs du parking : 1, 1, 0
+----------------------------------------
+agent ID : 1 Parking ID : p88
+Nom du client : 1
+Nom du parking : ggf
+Emplacement du parking : gg
+Limite de réservation restante : 0
+Tarifs du parking : 1, 0, 0
+----------------------------------------
+agent ID : 1 Parking ID : 1
+Nom du client : 1
+Nom du parking : hgg
+Emplacement du parking : dfgd
+Limite de réservation restante : 1
+Tarifs du parking : 1, 1, 0
+----------------------------------------
+agent ID : 1 Parking ID : p1
+Nom du client : 1
+Nom du parking : park1
+Emplacement du parking : ariam
+Limite de réservation restante : 1
+Tarifs du parking : 1, 1, 1
+----------------------------------------
+agent ID : 1 Parking ID : p1
+Nom du client : 1
+Nom du parking : park1
+Emplacement du parking : ariam
+Limite de réservation restante : 0
+Tarifs du parking : 1, 1, 1
+----------------------------------------
+agent ID : 1 Parking ID : 4
+Nom du client : 1
+Nom du parking : iuy
+Emplacement du parking : yt
+Limite de agent restante : 0
+Tarifs du parking : 1, 0, 0
+----------------------------------------
+agent ID : 1 Parking ID : 5
+Nom du client : 1
+Nom du parking : ssqq
+Emplacement du parking : dfd
+Limite de agent restante : 0
+Tarifs du parking : 1, 0, 0
+----------------------------------------
+agent ID : 2 Parking ID : l4
+Nom du client : 1
+Nom du parking : jj
+Emplacement du parking : ddd
+Limite de agent restante : 1
+Tarifs du parking : 0, 1, 0
+----------------------------------------
+agent ID : 1 Parking ID : c2
+Nom du client : 1
+Nom du parking : deded
+Emplacement du parking : de
+Limite de agent restante : 0
+Tarifs du parking : 1, 0, 0
+----------------------------------------
+agent ID : 1 Parking ID : t2
+Nom du client : 1
+Nom du parking : gt
+Emplacement du parking : gg
+Limite de agent restante : 0
+Tarifs du parking : 1, 0, 0
+----------------------------------------
